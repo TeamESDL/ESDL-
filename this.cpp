@@ -2,6 +2,7 @@
 void main()
 {
 cout<<"Hello mam";
+cout<<"Hiiii";
 }
 
 int test()
